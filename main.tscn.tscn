@@ -1,6 +1,0 @@
-[gd_scene format=3 uid="uid://cgubot5tbdg7i"]
-
-[ext_resource type="Script" uid="uid://d2cjv100ashkt" path="res://dungeon_generator.gd" id="1_2h1pa"]
-
-[node name="DungeonGenerator" type="Node2D" unique_id=711679444]
-script = ExtResource("1_2h1pa")
