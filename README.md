@@ -33,7 +33,7 @@ funciones principales
 como ejecutar
 1. Descargar o clonar este repositorio.
 2. Abrir el proyecto mediante `project.godot` en Godot 4.
-3. Abrir la escena `main.tscn.tscn`.
+3. Abrir la escena `main.tscn`.
 4. Presionar **F6** para ejecutar.
 5. Presionar **Espacio** para generar una nueva mazmorra.
 
@@ -54,3 +54,7 @@ Estado: Prototipo funcional
 Algoritmo:Binary Space Partitioning (BSP)  
 Motor: Godot 4  
 lenguaje:GDScript
+
+
+<img width="1157" height="747" alt="mapa_generado_2" src="https://github.com/user-attachments/assets/e8a38df9-f12d-4f8b-8294-4f452b5c8697" />
+<img width="1187" height="812" alt="mapa_generado_1" src="https://github.com/user-attachments/assets/cce46347-bd1f-4d77-bbc6-989326b66f25" />
